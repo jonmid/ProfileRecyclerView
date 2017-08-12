@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProfileRecyclerView</string>
+    <string name="txt_1">879</string>
+    <string name="txt_2">Followers</string>
+    <string name="txt_3">107</string>
+    <string name="txt_4">Following</string>
+    <string name="txt_5">2</string>
+    <string name="txt_6">Playlists</string>
+    <string name="txt_7">Jonathan Mideros * @10jonmid</string>
+    <string name="txt_8">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</string>
+</resources>
